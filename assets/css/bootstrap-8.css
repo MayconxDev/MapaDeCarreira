@@ -1,0 +1,5 @@
+body {
+    /* Gradiente linear do azul para o roxo */
+    background: linear-gradient(120deg, #4f8cff 0%, #a084ee 100%);
+    min-height: 100vh;
+}
